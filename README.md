@@ -1,5 +1,5 @@
 # Small-Induced-Cycles-Algorithm
 This algorithm is a polynomial time algorithm, developed to find all small induced cycles of size 3 to 8 of any complex graph or lage molecular systems.  
 The code is written in MATLAB.   
-The input (adjacency matrix) must be nxn where n is the number of vertices of G.  The "SmallCycles.zip" file includes all codes and some chemical structures (included in a file called "DrV_Data").  
-Output is sets of all cycles of size 3 to 8. Results will be saved in a file called "Results_345678", The code will create a result file in side the file "DrV_Data". 
+The input (adjacency matrix) must be nxn where n is the number of vertices of G. 
+Output is sets of all cycles of size 3 to 8. 
